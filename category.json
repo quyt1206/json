@@ -1,0 +1,44 @@
+{
+  "Category": [
+    {
+      "Id": 0,
+      "ImagePath": "btn_1",
+      "Name": "Pizza"
+    },
+    {
+      "Id": 1,
+      "ImagePath": "btn_2",
+      "Name": "Burger"
+    },
+    {
+      "Id": 2,
+      "ImagePath": "btn_3",
+      "Name": "Chicken"
+    },
+    {
+      "Id": 3,
+      "ImagePath": "btn_4",
+      "Name": "Sushi"
+    },
+    {
+      "Id": 4,
+      "ImagePath": "btn_5",
+      "Name": "Meat"
+    },
+    {
+      "Id": 5,
+      "ImagePath": "btn_6",
+      "Name": "Hotdog"
+    },
+    {
+      "Id": 6,
+      "ImagePath": "btn_7",
+      "Name": "Drink"
+    },
+    {
+      "Id": 7,
+      "ImagePath": "btn_8",
+      "Name": "More"
+    }
+  ],
+  
